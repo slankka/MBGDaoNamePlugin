@@ -1,12 +1,9 @@
-# MBGDaoNamePlugin
-rename the MyBatis InterfaceType and Methods
-MyBatis Generator Interface and method rename Plugin
+
+Mybatis generator mapper type and method rename plugin
 ========================
+rename the MyBatis InterfaceType and Methods
 
 ![Apache 2](http://img.shields.io/badge/license-Apache%202-red.svg)
-
-
-Code generator Mapper Type rename plugin for MyBatis Generator
 
 I'm obsessive so I made  this plugin  (σ｀・д･)σ  (｡・`ω´･)
 
